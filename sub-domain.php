@@ -91,7 +91,7 @@ print $bold . $green. "
 ";
 echo "=====================================================================";
 echo "\n";
-print $red."BlackWeb"\t -= Coded By Rooted Script =-";
+print $red."BlackWeb \t "." -= Coded By Rooted Script =-";
 echo "\n";echo "\n";
 echo "\t"."   [+] Enter target url : ";
 $target = fgets(STDIN,1024);
